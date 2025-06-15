@@ -12,6 +12,9 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 
 ## 2025
 
+- **Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2410.15639) (NAACL 2025)  
+Yoichi Ishibashi, Taro Yano, Masafumi Oyamada
+
 - **Truly Self-Improving Agents Require Intrinsic Metacognitive Learning** [[Paper]](https://arxiv.org/abs/2506.05109) (arXiv 2025)  
 Tennison Liu, Mihaela van der Schaar
 
@@ -29,7 +32,10 @@ Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
 
 - **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Technical Report]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report)   
 AlphaEvolve team at Google Deepmind
-  
+
+- **A Self-Improving Coding Agent** [[Paper]](https://arxiv.org/abs/2504.15228) (arXiv 2025)   
+Maxime Robeyns, Martin Szummer, Laurence Aitchison
+
 - **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025)   
 Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
@@ -60,6 +66,11 @@ Shimin Li, Tianxiang Sun, Qinyuan Cheng, Xipeng Qiu
 
 - **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2023)  
 Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
+
+## 2022
+
+- **Large Language Models Can Self-Improve** [[Paper]](https://arxiv.org/abs/2210.11610) (EMNLP 2022)  
+Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
 
 ## Previous Cornerstone 
 - **Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements**    [[Paper]](https://arxiv.org/abs/cs/0309048) (arXiv 2003)   
