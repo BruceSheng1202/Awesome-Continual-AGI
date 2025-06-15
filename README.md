@@ -10,7 +10,11 @@ More recently, research has begun to move beyond training static models, toward 
 
 - **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025) 
 
-  Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette  
+  Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
+
+- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**    [[Paper]](https://arxiv.org/pdf/2505.21496) (arXiv 2025) 
+  
+  Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
   
 - **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]](https://arxiv.org/abs/2505.22453) (arXiv 2025) 
   
