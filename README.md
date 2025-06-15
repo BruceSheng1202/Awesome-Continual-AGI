@@ -12,7 +12,7 @@ More recently, research has begun to move beyond training static models, toward 
 
   Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
 
-- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**    [[Paper]](https://arxiv.org/pdf/2505.21496) (arXiv 2025) 
+- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**    [[Paper]](https://arxiv.org/abs/2505.21496) (arXiv 2025) 
   
   Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
   
@@ -20,7 +20,7 @@ More recently, research has begun to move beyond training static models, toward 
   
   Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun
 
-- **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**    [[Paper]](https://arxiv.org/pdf/2505.22954) (arXiv 2025) 
+- **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**    [[Paper]](https://arxiv.org/abs/2505.22954) (arXiv 2025) 
   
   Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
 
