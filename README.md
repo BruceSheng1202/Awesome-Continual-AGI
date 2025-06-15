@@ -56,6 +56,9 @@ Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, Magdalena Balazins
 - **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments** [[Paper]](https://arxiv.org/abs/2406.04151) (arXiv 2024)  
 Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Dingwen Yang, Chenyang Liao, Xin Guo, Wei He, Songyang Gao, Lu Chen, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang
 
+- **ReST-MCTS\*: LLM Self-Training via Process Reward Guided Tree Search** [[Paper]](https://arxiv.org/abs/2406.03816) (NeurIPS 2024)  
+Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
+
 - **A Survey on Self-Evolution of Large Language Models** [[Paper]](https://arxiv.org/abs/2404.14387) (arXiv 2024)  
 Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
 
@@ -67,6 +70,8 @@ Shimin Li, Tianxiang Sun, Qinyuan Cheng, Xipeng Qiu
 - **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2023)  
 Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
 
+- **Reinforced Self-Training (ReST) for Language Modeling** [[Paper]](https://arxiv.org/abs/2308.08998) (arXiv 2023)  
+Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas
 ## 2022
 
 - **Large Language Models Can Self-Improve** [[Paper]](https://arxiv.org/abs/2210.11610) (EMNLP 2022)  
