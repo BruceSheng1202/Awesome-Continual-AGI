@@ -27,19 +27,19 @@ Tennison Liu, Mihaela van der Schaar
 - **Learning to Reason without External Rewards** [[Paper]](https://arxiv.org/abs/2505.19590) (arXiv 2025)  
 Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song
 
-- **Absolute Zero: Reinforced Self-play Reasoning with Zero Data**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025) 
+- **Absolute Zero: Reinforced Self-play Reasoning with Zero Data**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025)   
 Andrew Zhao, Yiran Wu, Yang Yue, Tong Wu, Quentin Xu, Yang Yue, Matthieu Lin, Shenzhi Wang, Qingyun Wu, Zilong Zheng, Gao Huang
 
-- **SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning**  [[Paper]](https://arxiv.org/abs/2504.19162) (arXiv 2025) 
+- **SPC: Evolving Self-Play Critic via Adversarial Games for LLM Reasoning**  [[Paper]](https://arxiv.org/abs/2504.19162) (arXiv 2025)   
 Jiaqi Chen, Bang Zhang, Ruotian Ma, Peisong Wang, Xiaodan Liang, Zhaopeng Tu, Xiaolong Li, Kwan-Yee K. Wong
 
-- **Get Experience from Practice: LLM Agents with Record & Replay**  [[Paper]](https://arxiv.org/abs/2505.17716) (arXiv 2025) 
+- **Get Experience from Practice: LLM Agents with Record & Replay**  [[Paper]](https://arxiv.org/abs/2505.17716) (arXiv 2025)   
 Erhu Feng, Wenbo Zhou, Zibin Liu, Le Chen, Yunpeng Dong, Cheng Zhang, Yisheng Zhao, Dong Du, Zhichao Hua, Yubin Xia, Haibo Chen
 
-- **Lifelong Safety Alignment for Language Models**  [[Paper]](https://arxiv.org/abs/2505.20259) (arXiv 2025) 
+- **Lifelong Safety Alignment for Language Models**  [[Paper]](https://arxiv.org/abs/2505.20259) (arXiv 2025)   
 Haoyu Wang, Zeyu Qin, Yifei Zhao, Chao Du, Min Lin, Xueqian Wang, Tianyu Pang
 
-- **Learning to Plan Before Answering: Self-Teaching LLMs to Learn Abstract Plans for Problem Solving** [[Paper]](https://arxiv.org/abs/2505.00031) (ICLR 2025) 
+- **Learning to Plan Before Answering: Self-Teaching LLMs to Learn Abstract Plans for Problem Solving** [[Paper]](https://arxiv.org/abs/2505.00031) (ICLR 2025)   
 Jin Zhang, Flood Sung, Zhilin Yang, Yang Gao, Chongjie Zhang
 
 - **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025)   
