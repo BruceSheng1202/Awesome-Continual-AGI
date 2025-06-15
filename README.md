@@ -15,6 +15,9 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 - **Can Large Language Models Invent Algorithms to Improve Themselves?: Algorithm Discovery for Recursive Self-Improvement through Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2410.15639) (NAACL 2025)  
 Yoichi Ishibashi, Taro Yano, Masafumi Oyamada
 
+- **Chasing Moving Targets with Online Self-Play Reinforcement Learning for Safer Language Models** [[Paper]](https://arxiv.org/abs/2506.07468) (arXiv 2025)  
+Mickel Liu, Liwei Jiang, Yancheng Liang, Simon Shaolei Du, Yejin Choi, Tim Althoff, Natasha Jaques
+
 - **Truly Self-Improving Agents Require Intrinsic Metacognitive Learning** [[Paper]](https://arxiv.org/abs/2506.05109) (arXiv 2025)  
 Tennison Liu, Mihaela van der Schaar
 
@@ -39,6 +42,9 @@ Maxime Robeyns, Martin Szummer, Laurence Aitchison
 - **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025)   
 Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
+- **A Survey on Self-play Methods in Reinforcement Learning**    [[Paper]](https://arxiv.org/abs/2408.01072) (arXiv 2025)
+Ruize Zhang, Zelai Xu, Chengdong Ma, Chao Yu, Wei-Wei Tu, Wenhao Tang, Shiyu Huang, Deheng Ye, Wenbo Ding, Yaodong Yang, Yu Wang
+
 ## 2024
 
 - **AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement** [[Paper]](https://arxiv.org/abs/2412.06176) (arxiv 2024)
@@ -58,6 +64,9 @@ Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Di
 
 - **ReST-MCTS\*: LLM Self-Training via Process Reward Guided Tree Search** [[Paper]](https://arxiv.org/abs/2406.03816) (NeurIPS 2024)  
 Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
+
+- **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[Paper]](https://arxiv.org/abs/2404.10642) (NeurIPS 2024)  
+Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Zheng Yuan, Yong Dai, Lei Han, Nan Du, Xiaolong Li
 
 - **A Survey on Self-Evolution of Large Language Models** [[Paper]](https://arxiv.org/abs/2404.14387) (arXiv 2024)  
 Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
