@@ -8,8 +8,10 @@ More recently, research has begun to move beyond training static models, toward 
 
 # Paper List
 
-- **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) \\
+- **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444)
+
   Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette (arXiv 2025)  
   
-- **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]](https://arxiv.org/abs/2505.22453) \\
+- **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]](https://arxiv.org/abs/2505.22453)
+  
   Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun (arXiv 2025)  
