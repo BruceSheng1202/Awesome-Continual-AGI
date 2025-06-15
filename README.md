@@ -31,6 +31,9 @@ Mickel Liu, Liwei Jiang, Yancheng Liang, Simon Shaolei Du, Yejin Choi, Tim Altho
 - **Truly Self-Improving Agents Require Intrinsic Metacognitive Learning** [[Paper]](https://arxiv.org/abs/2506.05109) (arXiv 2025)  
 Tennison Liu, Mihaela van der Schaar
 
+- **PPT: A Process-based Preference Learning Framework for Self Improving Table Question Answering Models** [[Paper]](https://arxiv.org/abs/2505.20259) (arXiv 2025)  
+Wei Zhou, Mohsen Mesgar, Heike Adel, Annemarie Friedrich
+
 - **Learning to Reason without External Rewards** [[Paper]](https://arxiv.org/abs/2505.19590) (arXiv 2025)  
 Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song
 
@@ -114,7 +117,7 @@ Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Di
 - **ReST-MCTS\*: LLM Self-Training via Process Reward Guided Tree Search** [[Paper]](https://arxiv.org/abs/2406.03816) (NeurIPS 2024)  
 Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
 
-- **Product2IMG: Prompt-Free E-commerce Product Background Generation with Diffusion Model and Self-Improved LMM** [[Paper]](https://openreview.net/forum?id=Af8QoxY78G&referrer=%5Bthe%20profile%20of%20Xue%20Zhao%5D(%2Fprofile%3Fid%3D~Xue_Zhao1)) (MM 2024) 
+- **Product2IMG: Prompt-Free E-commerce Product Background Generation with Diffusion Model and Self-Improved LMM** [[Paper]](https://openreview.net/forum?id=Af8QoxY78G&referrer=%5Bthe%20profile%20of%20Xue%20Zhao%5D(%2Fprofile%3Fid%3D~Xue_Zhao1)) (MM 2024)   
 Tingfeng Cao, Junsheng Kong, Xue Zhao, Wenqing Yao, Junwei Ding, Jinhui Zhu, Jian Dong Zhang
 
 - **Direct Alignment of Language Models via Quality-Aware Self-Refinement** [[Paper]](https://arxiv.org/abs/2405.21040) (arXiv 2025)  
