@@ -29,5 +29,19 @@ More recently, research has begun to move beyond training static models, toward 
 - **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report) 
   
   AlphaEvolve team at Google Deepmind
+
+## Previous Cornerstone 
+- **Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements**    [[Paper]](https://arxiv.org/abs/cs/0309048) (arXiv 2003) 
+  
+  Juergen Schmidhuber
+
+- **Self-improving AI: an Analysis**    [[Paper]](https://link.springer.com/article/10.1007/s11023-007-9065-3) (Minds and Machines 2007) 
+  
+  John Storrs Hall
+
+- **Mastering Chess and Shogi by Self-Play with a General Reinforcement Learning Algorithm**    [[Paper]](https://arxiv.org/abs/1712.01815) (arxiv 2017)
+
+  David Silver, Thomas Hubert, Julian Schrittwieser, Ioannis Antonoglou, Matthew Lai, Arthur Guez, Marc Lanctot, Laurent Sifre, Dharshan Kumaran, Thore Graepel, Timothy Lillicrap, Karen Simonyan, Demis Hassabis
+  
   
 
