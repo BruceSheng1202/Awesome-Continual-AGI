@@ -1,6 +1,6 @@
-# Awesome-Continual-AGI
+# Awesome-Self-improving AI: towards continual AGI
 
-# Continual AGI 
+# Continual AGI  and Slef-improving AI
 
 Continual AGI aims at building agents that continuously accumulate, adapt, and integrate knowledge across tasks and environments. Self-improvement, as the recursive ability of an agent to modify and refine its own components, forms a key enabling mechanism within this paradigm.
 
@@ -11,6 +11,10 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 # Paper List of Self-improving AI
 
 ## 2025
+
+- **Truly Self-Improving Agents Require Intrinsic Metacognitive Learning** [[Paper]](https://arxiv.org/abs/2506.05109) (arXiv 2025)  
+Tennison Liu, Mihaela van der Schaar
+
 - **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025)   
 Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
 
@@ -43,10 +47,14 @@ Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya Kale, Ya
 - **Self-Enhancing Video Data Management System for Compositional Events with Large Language Models** [[Technical Report]](https://arxiv.org/abs/2408.02243) (arXiv 2024) 
 Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska
 
+- **AgentGym: Evolving Large Language Model-based Agents across Diverse Environments** [[Paper]](https://arxiv.org/abs/2406.04151) (arXiv 2024)  
+Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Dingwen Yang, Chenyang Liao, Xin Guo, Wei He, Songyang Gao, Lu Chen, Rui Zheng, Yicheng Zou, Tao Gui, Qi Zhang, Xipeng Qiu, Xuanjing Huang, Zuxuan Wu, Yu-Gang Jiang
+
 - **A Survey on Self-Evolution of Large Language Models** [[Paper]](https://arxiv.org/abs/2404.14387) (arXiv 2024)  
 Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
 
-
+- **Agent Alignment in Evolving Social Norms** [[Paper]](https://arxiv.org/abs/2401.04620) (arXiv 2024)  
+Shimin Li, Tianxiang Sun, Qinyuan Cheng, Xipeng Qiu
 
 ## 2023
 
