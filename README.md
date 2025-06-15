@@ -8,14 +8,8 @@ More recently, research has begun to move beyond training static models, toward 
 
 # Paper List
 
-- **Learning without Forgetting**  
-  Zhizhong Li, Derek Hoiem (ECCV 2016)  
-  [[Paper]](https://arxiv.org/abs/1606.09282)
-
-- **Progressive Neural Networks**  
-  Rusu et al. (arXiv 2016)  
-  [[Paper]](https://arxiv.org/abs/1606.04671)
-
-- **Synaptic Intelligence**  
-  Zenke et al. (ICML 2017)  
-  [[Paper]](https://arxiv.org/abs/1703.04200)
+- **Can Large Reasoning Models Self-Train?**  [[Paper]]([https://arxiv.org/abs/1606.09282](https://arxiv.org/abs/2505.21444))
+  Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette (arXiv 2025)  
+  
+- **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]]([https://arxiv.org/abs/1606.04671](https://arxiv.org/abs/2505.22453))
+  Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun (arXiv 2025)  
