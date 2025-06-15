@@ -8,7 +8,7 @@ More recently, research has begun to move beyond training static models, toward 
 
 # Paper List
 
-## May 2025
+## 2025
 
 - **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025) 
 
@@ -29,6 +29,11 @@ More recently, research has begun to move beyond training static models, toward 
 - **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report) 
   
   AlphaEvolve team at Google Deepmind
+
+## 2024
+
+- **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2025)  
+Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
 
 ## Previous Cornerstone 
 - **Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements**    [[Paper]](https://arxiv.org/abs/cs/0309048) (arXiv 2003) 
