@@ -26,7 +26,7 @@ More recently, research has begun to move beyond training static models, toward 
   
   Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
 
-- **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report 2025) 
+- **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report) 
   
   AlphaEvolve team at Google Deepmind
   
