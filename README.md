@@ -89,6 +89,9 @@ Qingxiu Dong, Li Dong, Xingxing Zhang, Zhifang Sui, Furu Wei
 - **Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness** [[Paper]](https://arxiv.org/abs/2409.17791) (EMNLP 2024) 
 Jian Li, Haojing Huang, Yujia Zhang, Pengfei Xu, Xi Chen, Rui Song, Lida Shi, Jingwen Wang, Hao Xu
 
+- **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2024) 
+Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
+
 - **Self-Enhancing Video Data Management System for Compositional Events with Large Language Models** [[Technical Report]](https://arxiv.org/abs/2408.02243) (arXiv 2024) 
 Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska
 
