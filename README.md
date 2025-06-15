@@ -11,25 +11,22 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 # Paper List of Self-improving AI
 
 ## 2025
-- **AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement** [[Paper]](https://arxiv.org/abs/2412.06176) (arxiv 2024)
-Pranjal Aggarwal, Bryan Parno, Sean Welleck
-
-- **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025) 
+- **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025)   
 Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
 
-- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**    [[Paper]](https://arxiv.org/abs/2505.21496) (arXiv 2025) 
+- **UI-Genie: A Self-Improving Approach for Iteratively Boosting MLLM-based Mobile GUI Agents**    [[Paper]](https://arxiv.org/abs/2505.21496) (arXiv 2025)   
 Han Xiao, Guozhi Wang, Yuxiang Chai, Zimu Lu, Weifeng Lin, Hao He, Lue Fan, Liuyang Bian, Rui Hu, Liang Liu, Shuai Ren, Yafei Wen, Xiaoxin Chen, Aojun Zhou, Hongsheng Li
   
-- **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]](https://arxiv.org/abs/2505.22453) (arXiv 2025) 
+- **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]](https://arxiv.org/abs/2505.22453) (arXiv 2025)   
 Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun
 
-- **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**    [[Paper]](https://arxiv.org/abs/2505.22954) (arXiv 2025) 
+- **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**    [[Paper]](https://arxiv.org/abs/2505.22954) (arXiv 2025)   
 Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
 
-- **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Technical Report]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report) 
+- **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Technical Report]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report)   
 AlphaEvolve team at Google Deepmind
   
-- **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025) 
+- **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025)   
 Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
 ## 2024
