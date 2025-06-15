@@ -27,6 +27,9 @@ Tennison Liu, Mihaela van der Schaar
 - **Learning to Reason without External Rewards** [[Paper]](https://arxiv.org/abs/2505.19590) (arXiv 2025)  
 Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song
 
+- **Direct Alignment of Language Models via Quality-Aware Self-Refinement** [[Paper]](https://arxiv.org/abs/2405.21040) (arXiv 2025)  
+Runsheng Yu, Yong Wang, Xiaoqi Jiao, Youzhi Zhang, James T. Kwok
+
 - **Absolute Zero: Reinforced Self-play Reasoning with Zero Data**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025)   
 Andrew Zhao, Yiran Wu, Yang Yue, Tong Wu, Quentin Xu, Yang Yue, Matthieu Lin, Shenzhi Wang, Qingyun Wu, Zilong Zheng, Gao Huang
 
@@ -63,6 +66,9 @@ Maxime Robeyns, Martin Szummer, Laurence Aitchison
 - **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025)   
 Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
+- **Dynamic Noise Preference Optimization for LLM Self-Improvement via Synthetic Data**    [[Paper]](https://arxiv.org/abs/2502.05400) (arXiv 2025)   
+Haoyan Yang, Ting Hua, Shangqian Gao, Binfeng Xu, Zheng Tang, Jie Xu, Hongxia Jin, Vijay Srinivasan
+
 - **S^2 R: Teaching LLMs to Self-verify and Self-correct via Reinforcement Learning** [[Paper]](https://arxiv.org/abs/2502.12853) (arXiv 2025)
 Ruotian Ma, Peisong Wang, Cheng Liu, Xingyan Liu, Jiaqi Chen, Bang Zhang, Xin Zhou, Nan Du, Jia Li
 
@@ -80,6 +86,9 @@ Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib H
 - **Self-Boosting Large Language Models with Synthetic Preference Data** [[Paper]](https://arxiv.org/abs/2410.06961) (arXiv 2024) 
 Qingxiu Dong, Li Dong, Xingxing Zhang, Zhifang Sui, Furu Wei
 
+- **Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness** [[Paper]](https://arxiv.org/abs/2409.17791) (EMNLP 2024) 
+Jian Li, Haojing Huang, Yujia Zhang, Pengfei Xu, Xi Chen, Rui Song, Lida Shi, Jingwen Wang, Hao Xu
+
 - **Self-Enhancing Video Data Management System for Compositional Events with Large Language Models** [[Technical Report]](https://arxiv.org/abs/2408.02243) (arXiv 2024) 
 Enhao Zhang, Nicole Sullivan, Brandon Haynes, Ranjay Krishna, Magdalena Balazinska
 
@@ -95,8 +104,14 @@ Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
 - **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[Paper]](https://arxiv.org/abs/2404.10642) (NeurIPS 2024)  
 Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Zheng Yuan, Yong Dai, Lei Han, Nan Du, Xiaolong Li
 
+- **Self-Organized Agents: A LLM Multi-Agent Framework toward Ultra Large-Scale Code Generation and Optimization** [[Paper]](https://arxiv.org/abs/2404.02183) (arXiv 2024)  
+Yoichi Ishibashi, Yoshimasa Nishimura
+
 - **A Survey on Self-Evolution of Large Language Models** [[Paper]](https://arxiv.org/abs/2404.14387) (arXiv 2024)  
 Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
+
+- **Evolving AI Collectives to Enhance Human Diversity and Enable Self-Regulation** [[Paper]](https://arxiv.org/abs/2402.12590) (arXiv 2024)  
+Shiyang Lai, Yujin Potter, Junsol Kim, Richard Zhuang, Dawn Song, James Evans
 
 - **Agent Alignment in Evolving Social Norms** [[Paper]](https://arxiv.org/abs/2401.04620) (arXiv 2024)  
 Shimin Li, Tianxiang Sun, Qinyuan Cheng, Xipeng Qiu
@@ -110,8 +125,13 @@ Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
 Caglar Gulcehre, Tom Le Paine, Srivatsan Srinivasan, Ksenia Konyushkova, Lotte Weerts, Abhishek Sharma, Aditya Siddhant, Alex Ahern, Miaosen Wang, Chenjie Gu, Wolfgang Macherey, Arnaud Doucet, Orhan Firat, Nando de Freitas
 ## 2022
 
+- **Self-Instruct: Aligning Language Models with Self-Generated Instructions** [[Paper]](https://arxiv.org/abs/2212.10560) (ACL 2022)  
+Yizhong Wang, Yeganeh Kordi, Swaroop Mishra, Alisa Liu, Noah A. Smith, Daniel Khashabi, Hannaneh Hajishirzi
+
 - **Large Language Models Can Self-Improve** [[Paper]](https://arxiv.org/abs/2210.11610) (EMNLP 2022)  
 Jiaxin Huang, Shixiang Shane Gu, Le Hou, Yuexin Wu, Xuezhi Wang, Hongkun Yu, Jiawei Han
+
+
 
 ## Previous Cornerstone 
 - **Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements**    [[Paper]](https://arxiv.org/abs/cs/0309048) (arXiv 2003)   
