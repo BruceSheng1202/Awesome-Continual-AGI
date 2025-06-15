@@ -2,11 +2,9 @@
 
 # Continual AGI 
 
-In 2003, AI pioneer and LSTM inventor Jürgen Schmidhuber proposed the concept of the Gödel Machine, a theoretical agent capable of modifying its own code. The machine would rewrite itself if it could prove that a new version would lead to better outcomes. Although highly influential, this idea remained largely theoretical for many years.
+Continual AGI aims at building agents that continuously accumulate, adapt, and integrate knowledge across tasks and environments. Self-improvement, as the recursive ability of an agent to modify and refine its own components, forms a key enabling mechanism within this paradigm.
 
-More recently, research has begun to move beyond training static models, toward building systems that can improve themselves over time. A growing number of works focus on agents that learn how to learn, adapt continuously, and evolve based on interaction and reflection. This repository collects research papers related to continual learning, self-improvement, and the long-term development of AI agents.
-
-# Paper List
+# Paper List of Self-improving AI
 
 ## 2025
 
