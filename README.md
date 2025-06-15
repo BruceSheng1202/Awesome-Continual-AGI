@@ -14,4 +14,9 @@ More recently, research has begun to move beyond training static models, toward 
   
 - **Unsupervised Post-Training for Multi-Modal LLM Reasoning via GRPO**    [[Paper]](https://arxiv.org/abs/2505.22453) (arXiv 2025) 
   
-  Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun  
+  Lai Wei, Yuting Li, Chen Wang, Yue Wang, Linghe Kong, Weiran Huang, Lichao Sun
+
+- **Darwin Godel Machine: Open-Ended Evolution of Self-Improving Agents**    [[Paper]](https://arxiv.org/pdf/2505.22954) (arXiv 2025) 
+  
+  Jenny Zhang, Shengran Hu, Cong Lu, Robert Lange, Jeff Clune
+
