@@ -33,28 +33,28 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
   AlphaEvolve team at Google Deepmind
   
 - **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025) 
-Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
+  Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
 ## 2024
 
 - **AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement** [[Paper]](https://arxiv.org/abs/2412.06176) (arxiv 2024)
-Pranjal Aggarwal, Bryan Parno, Sean Welleck
+  Pranjal Aggarwal, Bryan Parno, Sean Welleck
 
 - **Automated Proof Generation for Rust Code via Self-Evolution** [[Paper]](https://arxiv.org/abs/2410.15756) (arXiv 2024)  
-Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, Peng Cheng, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou
+  Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, Peng Cheng, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou
 
 - **Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level Judge-Free Approach** [[Paper]](https://arxiv.org/abs/2411.17760) (arxiv 2024)
-Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya Kale, Yapeng Tian
+  Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya Kale, Yapeng Tian
 
 - **A Survey on Self-Evolution of Large Language Models** [[Paper]](https://arxiv.org/abs/2404.14387) (arXiv 2024)  
-Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
+  Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
 
 
 
 ## 2023
 
 - **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2023)  
-Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
+  Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
 
 ## Previous Cornerstone 
 - **Goedel Machines: Self-Referential Universal Problem Solvers Making Provably Optimal Self-Improvements**    [[Paper]](https://arxiv.org/abs/cs/0309048) (arXiv 2003) 
