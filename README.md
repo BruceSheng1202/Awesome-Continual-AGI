@@ -11,6 +11,8 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 # Paper List of Self-improving AI
 
 ## 2025
+- **AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement** [[Paper]](https://arxiv.org/abs/2412.06176) (arxiv 2024)
+Pranjal Aggarwal, Bryan Parno, Sean Welleck
 
 - **Can Large Reasoning Models Self-Train?**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025) 
 Sheikh Shafayat, Fahim Tajwar, Ruslan Salakhutdinov, Jeff Schneider, Andrea Zanette
