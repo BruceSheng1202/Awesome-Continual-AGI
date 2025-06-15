@@ -1,10 +1,12 @@
-# Awesome-Self-improving AI: towards continual AGI
+# Awesome-Self-improving AI: towards Continual AGI
 
 # Continual AGI  and Slef-improving AI
 
 Continual AGI aims at building agents that continuously accumulate, adapt, and integrate knowledge across tasks and environments. Self-improvement, as the recursive ability of an agent to modify and refine its own components, forms a key enabling mechanism within this paradigm.
 
-## Related Repository
+## Usefull Links
+
+[[ICLR25 Workshop Self-Improving Foundation Models Without Human Supervision]](https://iclr.cc/virtual/2025/workshop/23971)
 
 [[Awesome-Self-Evolution-of-LLM]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/Awesome-Self-Evolution-of-LLM) 
 
@@ -26,9 +28,6 @@ Tennison Liu, Mihaela van der Schaar
 
 - **Learning to Reason without External Rewards** [[Paper]](https://arxiv.org/abs/2505.19590) (arXiv 2025)  
 Xuandong Zhao, Zhewei Kang, Aosong Feng, Sergey Levine, Dawn Song
-
-- **Direct Alignment of Language Models via Quality-Aware Self-Refinement** [[Paper]](https://arxiv.org/abs/2405.21040) (arXiv 2025)  
-Runsheng Yu, Yong Wang, Xiaoqi Jiao, Youzhi Zhang, James T. Kwok
 
 - **Absolute Zero: Reinforced Self-play Reasoning with Zero Data**  [[Paper]](https://arxiv.org/abs/2505.21444) (arXiv 2025)   
 Andrew Zhao, Yiran Wu, Yang Yue, Tong Wu, Quentin Xu, Yang Yue, Matthieu Lin, Shenzhi Wang, Qingyun Wu, Zilong Zheng, Gao Huang
@@ -63,6 +62,9 @@ AlphaEvolve team at Google Deepmind
 - **A Self-Improving Coding Agent** [[Paper]](https://arxiv.org/abs/2504.15228) (arXiv 2025)   
 Maxime Robeyns, Martin Szummer, Laurence Aitchison
 
+- **WebEvolver: Enhancing Web Agent Self-Improvement with Coevolving World Model** [[Paper]](https://arxiv.org/abs/2504.21024) (arXiv 2024)  
+Tianqing Fang, Hongming Zhang, Zhisong Zhang, Kaixin Ma, Wenhao Yu, Haitao Mi, Dong Yu
+
 - **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025)   
 Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
@@ -86,6 +88,9 @@ Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib H
 - **Self-Boosting Large Language Models with Synthetic Preference Data** [[Paper]](https://arxiv.org/abs/2410.06961) (arXiv 2024) 
 Qingxiu Dong, Li Dong, Xingxing Zhang, Zhifang Sui, Furu Wei
 
+- **Gödel Agent: A Self-Referential Agent Framework for Recursive Self-Improvement** [[Paper]](https://arxiv.org/abs/2410.04444) (arXiv 2025)  
+Xunjian Yin, Xinyi Wang, Liangming Pan, Li Lin, Xiaojun Wan, William Yang Wang
+
 - **Self-supervised Preference Optimization: Enhance Your Language Model with Preference Degree Awareness** [[Paper]](https://arxiv.org/abs/2409.17791) (EMNLP 2024) 
 Jian Li, Haojing Huang, Yujia Zhang, Pengfei Xu, Xi Chen, Rui Song, Lida Shi, Jingwen Wang, Hao Xu
 
@@ -103,6 +108,9 @@ Zhiheng Xi, Yiwen Ding, Wenxiang Chen, Boyang Hong, Honglin Guo, Junzhe Wang, Di
 
 - **ReST-MCTS\*: LLM Self-Training via Process Reward Guided Tree Search** [[Paper]](https://arxiv.org/abs/2406.03816) (NeurIPS 2024)  
 Dan Zhang, Sining Zhoubian, Ziniu Hu, Yisong Yue, Yuxiao Dong, Jie Tang
+
+- **Direct Alignment of Language Models via Quality-Aware Self-Refinement** [[Paper]](https://arxiv.org/abs/2405.21040) (arXiv 2025)  
+Runsheng Yu, Yong Wang, Xiaoqi Jiao, Youzhi Zhang, James T. Kwok
 
 - **Self-playing Adversarial Language Game Enhances LLM Reasoning** [[Paper]](https://arxiv.org/abs/2404.10642) (NeurIPS 2024)  
 Pengyu Cheng, Tianhao Hu, Han Xu, Zhisong Zhang, Zheng Yuan, Yong Dai, Lei Han, Nan Du, Xiaolong Li
