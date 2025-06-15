@@ -14,6 +14,9 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 
 ## 2025
 
+- **Confidence Is All You Need: Few-Shot RL Fine-Tuning of Language Models** [[Paper]](https://www.arxiv.org/abs/2506.06395) (arXiv 2025)  
+Pengyi Li, Matvey Skripkin, Alexander Zubrey, Andrey Kuznetsov, Ivan Oseledets
+
 - **PAG: Multi-Turn Reinforced LLM Self-Correction with Policy as Generative Verifier** [[Paper]](https://arxiv.org/abs/2506.10406) (arXiv 2025)  
 Yuhua Jiang, Yuwen Xiong, Yufeng Yuan, Chao Xin, Wenyuan Xu, Yu Yue, Qianchuan Zhao, Lin Yan
 
@@ -126,6 +129,9 @@ Shiyang Lai, Yujin Potter, Junsol Kim, Richard Zhuang, Dawn Song, James Evans
 
 - **Agent Alignment in Evolving Social Norms** [[Paper]](https://arxiv.org/abs/2401.04620) (arXiv 2024)  
 Shimin Li, Tianxiang Sun, Qinyuan Cheng, Xipeng Qiu
+
+- **Evolving Code with A Large Language Model** [[Paper]](https://arxiv.org/abs/2401.07102) (arXiv 2024)  
+Erik Hemberg, Stephen Moskal, Una-May O'Reilly
 
 ## 2023
 
