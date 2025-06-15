@@ -4,6 +4,10 @@
 
 Continual AGI aims at building agents that continuously accumulate, adapt, and integrate knowledge across tasks and environments. Self-improvement, as the recursive ability of an agent to modify and refine its own components, forms a key enabling mechanism within this paradigm.
 
+## Related Repository
+
+[[Awesome-Self-Evolution-of-LLM]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/Awesome-Self-Evolution-of-LLM) 
+
 # Paper List of Self-improving AI
 
 ## 2025
@@ -27,10 +31,29 @@ Continual AGI aims at building agents that continuously accumulate, adapt, and i
 - **AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms**    [[Paper]](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/AlphaEvolve.pdf) (Tech Report) 
   
   AlphaEvolve team at Google Deepmind
+  
+- **Efficient Test-Time Scaling via Self-Calibration**    [[Paper]](https://arxiv.org/abs/2503.00031) (arXiv 2025) 
+Chengsong Huang, Langlin Huang, Jixuan Leng, Jiacheng Liu, Jiaxin Huang
 
 ## 2024
 
-- **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2025)  
+- **AlphaVerus: Bootstrapping Formally Verified Code Generation through Self-Improving Translation and Treefinement** [[Paper]](https://arxiv.org/abs/2412.06176) (arxiv 2024)
+Pranjal Aggarwal, Bryan Parno, Sean Welleck
+
+- **Automated Proof Generation for Rust Code via Self-Evolution** [[Paper]](https://arxiv.org/abs/2410.15756) (arXiv 2024)  
+Tianyu Chen, Shuai Lu, Shan Lu, Yeyun Gong, Chenyuan Yang, Xuheng Li, Md Rakib Hossain Misu, Hao Yu, Nan Duan, Peng Cheng, Fan Yang, Shuvendu K Lahiri, Tao Xie, Lidong Zhou
+
+- **Efficient Self-Improvement in Multimodal Large Language Models: A Model-Level Judge-Free Approach** [[Paper]](https://arxiv.org/abs/2411.17760) (arxiv 2024)
+Shijian Deng, Wentian Zhao, Yu-Jhe Li, Kun Wan, Daniel Miranda, Ajinkya Kale, Yapeng Tian
+
+- **A Survey on Self-Evolution of Large Language Models** [[Paper]](https://arxiv.org/abs/2404.14387) (arXiv 2024)  
+Zhengwei Tao, Ting-En Lin, Xiancai Chen, Hangyu Li, Yuchuan Wu, Yongbin Li, Zhi Jin, Fei Huang, Dacheng Tao, Jingren Zhou
+
+
+
+## 2023
+
+- **Self-Taught Optimizer (STOP): Recursively Self-Improving Code Generation** [[Paper]](https://arxiv.org/abs/2310.02304) (arXiv 2023)  
 Eric Zelikman, Eliana Lorch, Lester Mackey, Adam Tauman Kalai
 
 ## Previous Cornerstone 
